@@ -9,7 +9,7 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['icon-192.png', 'icon-512.png', 'apple-touch-icon.png'],
       manifest: {
-        name: 'XAU/USD Pro Toolkit',
+        name: 'Tradehouse Toolkit',
         short_name: 'GoldEdge',
         description: 'Professional XAU/USD Gold Trading Calculators',
         theme_color: '#D4AF37',
